@@ -1,2 +1,5 @@
-package com.sda.dao;public class UserDAO {
+package com.sda.dao;
+
+public class UserDAO {
+
 }

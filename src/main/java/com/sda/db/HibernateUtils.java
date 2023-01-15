@@ -1,4 +1,4 @@
-package com.sda.DB;
+package com.sda.db;
 
 import com.sda.model.User;
 import lombok.extern.slf4j.Slf4j;
